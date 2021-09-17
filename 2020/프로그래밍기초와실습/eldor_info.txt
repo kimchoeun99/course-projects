@@ -1,3 +1,0 @@
-login : Eldor
-Password : pAsswOrd
-Store name : G25 Store 2

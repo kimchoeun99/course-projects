@@ -1,8 +1,0 @@
-
-***CUSTOMER PAGE***
-======================================
-	1. Show all products
-	2. Search for specific product
-	3. Go to start page
-======================================
-Enter Your Choice: 
