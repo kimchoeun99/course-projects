@@ -1,0 +1,7 @@
+*** Welcome to SKKU Stores Management ***
+================================================
+	1. Login as shopkeeper
+	2. Search products
+	3. Exit
+================================================
+	Enter your choice : 
