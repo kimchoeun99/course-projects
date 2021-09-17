@@ -1,0 +1,3 @@
+login : Firuz
+Password : p@assw0rd
+Store name : G25 Store 1
